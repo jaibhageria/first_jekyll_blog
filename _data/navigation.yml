@@ -1,8 +1,8 @@
 - name: Home
-  link: /first_jekyll_blog
+  link: /
 - name: About
-  link: /firdt_jekyll_blog/about.html
+  link: /about.html
 - name: Blog
-  link: /first_jekyll_blog/blog.html
+  link: /blog.html
 - name: Staff
-  link: /first_jekyll_blog/staff.html
+  link: /staff.html
